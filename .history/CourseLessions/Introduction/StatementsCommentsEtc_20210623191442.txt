@@ -1,0 +1,10 @@
+        What is a Python Statement?
+a) Assignment statement
+b) If statement
+c) For statement
+d) While statement
+
+
+        What is a Python Comment?
+a) # An amazing way to remenber what your code does.
+

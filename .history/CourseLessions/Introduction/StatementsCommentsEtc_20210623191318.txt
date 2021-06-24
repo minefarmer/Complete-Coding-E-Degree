@@ -1,0 +1,8 @@
+        What is a Python Statement?
+a) Assignment statement
+b) If statement
+c) For statement
+d) While statement
+
+
+        what is a Pytho

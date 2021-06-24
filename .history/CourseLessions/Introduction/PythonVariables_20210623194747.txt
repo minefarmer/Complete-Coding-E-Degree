@@ -1,0 +1,4 @@
+        Python Variables
+1) What is a variable?
+2) 5 standard types of Variables
+    

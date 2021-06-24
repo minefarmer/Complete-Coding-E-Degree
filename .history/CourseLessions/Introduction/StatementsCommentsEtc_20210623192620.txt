@@ -1,0 +1,16 @@
+        What is a Python Statement?
+a) Assignment statement
+b) If statement
+c) For statement
+d) While statement
+
+
+        What is a Python Comment?
+a) # An amazing way to remenber what your code does.
+
+
+        Why should we use these two together?
+a) # Because we might not always remember what I want for a result.
+b) EXAMPLES3_1['quantle_ex_1'] = pd.cut(EXAMPLES3_1]'Number']. bins)
+c) means!
+
